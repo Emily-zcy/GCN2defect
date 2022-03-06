@@ -35,7 +35,7 @@ Before  training  GCN,  we have to provide the attributes of the CDN nodes. Thus
 
 Run generateGCNemb.py to generate GCN embeddings.
 
-We use the the [stellargraph](https://github.com/stellargraph/stellargraph) to generate the GCN embeddings. The GCN demo showS in https://stellargraph.readthedocs.io/en/stable/demos/node-classification/gcn-node-classification.html. 
+We use the the [stellargraph](https://github.com/stellargraph/stellargraph) to generate the GCN embeddings. The GCN demo shows in https://stellargraph.readthedocs.io/en/stable/demos/node-classification/gcn-node-classification.html. 
 
 If you want to change to your own dataset, you need the following steps:
 
