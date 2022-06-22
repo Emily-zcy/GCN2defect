@@ -41,19 +41,19 @@ If you want to change to your own dataset, you need the following steps:
 
 **1) Replace the name in the red box in the following figure with the name of your dataset.**
 
- ![image-20220305213519599](https://github.com/Emliy-zcy/GCN2defect/blob/main/img/image-20220305213519599.png)
+ ![image-20220305213519599](https://github.com/Emily-zcy/GCN2defect/blob/main/img/image-20220305213519599.png)
 
 **2) Place the mouse over the *dataset*, then press Ctrl, and click to enter *_init_.py*.**
 
- ![image-20220305213816599](https://github.com/Emliy-zcy/GCN2defect/blob/main/img/image-20220305213816599.png)
+ ![image-20220305213816599](https://github.com/Emily-zcy/GCN2defect/blob/main/img/image-20220305213816599.png)
 
 **Add the name of your dataset in *_init_.py*.** 
 
- ![image-20220305214236889](https://github.com/Emliy-zcy/GCN2defect/blob/main/img/image-20220305214236889.png)
+ ![image-20220305214236889](https://github.com/Emily-zcy/GCN2defect/blob/main/img/image-20220305214236889.png)
 
 **3) Place the mouse over the dataset name (except for the dataset name you just created), then press Ctrl, and click to enter *datasets.py*.**
 
- ![image-20220305214527747](https://github.com/Emliy-zcy/GCN2defect/blob/main/img/image-20220305214527747.png)
+ ![image-20220305214527747](https://github.com/Emily-zcy/GCN2defect/blob/main/img/image-20220305214527747.png)
 
 **4) Create your own class in *datasets.py*. For example, the following code is to create Ant dataset:**
 
